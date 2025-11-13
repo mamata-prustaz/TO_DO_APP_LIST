@@ -126,7 +126,7 @@ input {
     border: 1px solid var(--purple);
     border-radius: 10px;
     outline: none;
-    color: white;
+    color: black;
     font-size: 16px;
 }
 input::placeholder {
@@ -170,6 +170,7 @@ button:hover {
     justify-content: space-between;
     align-items: center;
     transition: all 0.3s ease;
+    color: black;
 
 }
 .taskItem:hover {
